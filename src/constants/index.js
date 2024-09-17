@@ -37,11 +37,11 @@ import {
 } from "../assets";
 
 export const navigation = [
-  {
-    id: "0",
-    title: "Features",
-    url: "#features",
-  },
+  // {
+  //   id: "0",
+  //   title: "Features",
+  //   url: "#features",
+  // },
   {
     id: "1",
     title: "Pricing",
